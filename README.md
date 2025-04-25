@@ -1,6 +1,5 @@
 # Seattle Airbnb Open Data Analysis
 
-![Seattle Airbnb Data](https://via.placeholder.com/800x150?text=Seattle+Airbnb+Analysis)
 
 ## 📂 Dataset
 **Dataset Name:** Seattle - Airbnb Open Data  
@@ -66,12 +65,7 @@ jupyter notebook notebook.ipynb
 ## 🤝 License
 This project is for educational purposes. Please refer to the Kaggle dataset page for the data license.
 
-## 📊 Sample Visualizations
 
-<div align="center">
-  <img src="https://via.placeholder.com/400x300?text=Price+by+Neighborhood" width="45%" />
-  <img src="https://via.placeholder.com/400x300?text=Seasonal+Availability" width="45%" />
-</div>
 
 ## 👨‍💻 Contributing
 Contributions, issues, and feature requests are welcome!
