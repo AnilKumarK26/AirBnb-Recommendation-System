@@ -31,7 +31,7 @@ The dataset includes comprehensive information about Airbnb listings in Seattle 
 ## 🚀 How to Run
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/seattle-airbnb-analysis.git
+git clone https://github.com/AnilKumarK26/seattle-airbnb-analysis.git
 cd seattle-airbnb-analysis
 ```
 
